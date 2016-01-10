@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "NemerleHellpWorld", "NemerleHellpWorld\NemerleHellpWorld.nproj", "{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}"
+Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "NemerleHelloWorld", "NemerleHelloWorld\NemerleHelloWorld.nproj", "{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}"
 EndProject
 Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "Macros", "Macros\Macros.nproj", "{9D57401D-6A4A-45F1-94D3-0A1C645C0FD6}"
 EndProject

@@ -8,15 +8,17 @@
     <ProjectGuid>1c3e2f30-b19a-4b30-b152-c2b00a7338c2</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NemerleHellpWorld</RootNamespace>
-    <AssemblyName>NemerleHellpWorld</AssemblyName>
+    <RootNamespace>NemerleHelloWorld</RootNamespace>
+    <AssemblyName>NemerleHelloWorld</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NoStdLib>true</NoStdLib>
     <NemerleVersion>Net-4.0</NemerleVersion>
     <NemerleBinPathRoot Condition=" '$(NemerleBinPathRoot)' == '' ">$(ProgramFiles)\Nemerle</NemerleBinPathRoot>
     <Nemerle Condition=" '$(Nemerle)' == '' ">$(NemerleBinPathRoot)\$(NemerleVersion)</Nemerle>
-    <Name>NemerleHellpWorld</Name>
+    <Name>NemerleHelloWorld</Name>
+    <StartupObject />
+    <ApplicationIcon />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

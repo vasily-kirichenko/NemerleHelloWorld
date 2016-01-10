@@ -1,0 +1,5 @@
+source https://www.nuget.org/api/v2
+framework >= net46
+
+nuget Moq 4.2.1510.2205
+nuget Newtonsoft.Json 8.0.2

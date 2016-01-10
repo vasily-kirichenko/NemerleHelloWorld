@@ -1,0 +1,6 @@
+FRAMEWORK: >= NET46
+NUGET
+  remote: https://www.nuget.org/api/v2
+  specs:
+    Moq (4.2.1510.2205)
+    Newtonsoft.Json (8.0.2)

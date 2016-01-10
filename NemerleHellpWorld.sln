@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "NemerleHellpWorld", "NemerleHellpWorld\NemerleHellpWorld.nproj", "{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}"
+EndProject
+Project("{EDCC3B85-0BAD-11DB-BC1A-00112FDE8B61}") = "Macros", "Macros\Macros.nproj", "{9D57401D-6A4A-45F1-94D3-0A1C645C0FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3E2F30-B19A-4B30-B152-C2B00A7338C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D57401D-6A4A-45F1-94D3-0A1C645C0FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D57401D-6A4A-45F1-94D3-0A1C645C0FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D57401D-6A4A-45F1-94D3-0A1C645C0FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D57401D-6A4A-45F1-94D3-0A1C645C0FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
